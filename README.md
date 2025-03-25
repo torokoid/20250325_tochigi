@@ -138,7 +138,7 @@ p.note { display: none; }
 <a href="20250325_003.JPG" target="_blank"><img src="20250325_003.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">木に黒いものが止まってたのでアップにしたら、タカの様です<br>画像クリックで動画再生します↓</span></h2>
-<a href="20250325_001.MOV" target="_blank"><img src="20250325_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250325_001.mov" target="_blank"><img src="20250325_004.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">土手の桜並木をよく見たら、一本だけ早咲きの桜が咲いてます</span></h2>
 <a href="20250325_005.JPG" target="_blank"><img src="20250325_005.JPG" alt="サンプル画像" width="900" /></a>
