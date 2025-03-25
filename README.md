@@ -164,15 +164,14 @@ p.note { display: none; }
 <h2><span class="yellow">24日の日没後は、すごい雷雨と雹でした</span></h2>
 <a href="20250325_001.png" target="_blank"><img src="20250325_001.png" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">25日は晴天でいつものショッピングモールで暇つぶし</span></h2>
-<a href="20250325_020.JPG" target="_blank"><img src="20250325_020.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250325_021.JPG" target="_blank"><img src="20250325_021.JPG" alt="サンプル画像" width="900" /></a>
-
-    
 <h2><span class="yellow">比較用に23日の夕暮れの様子</span></h2>
 <a href="20250325_022.JPG" target="_blank"><img src="20250325_022.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250325_023.JPG" target="_blank"><img src="20250325_023.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250325_024.JPG" target="_blank"><img src="20250325_024.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">25日は晴天でいつものショッピングモールで暇つぶし</span></h2>
+<a href="20250325_020.JPG" target="_blank"><img src="20250325_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250325_021.JPG" target="_blank"><img src="20250325_021.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">フードコートの一角にWi-Fiが強いポイントがあったので画像処理してHP化</span></h2>
 <a href="20250325_025.JPG" target="_blank"><img src="20250325_025.JPG" alt="サンプル画像" width="900" /></a>   
